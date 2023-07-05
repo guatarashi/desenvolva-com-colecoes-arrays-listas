@@ -1,4 +1,4 @@
-package br.com.atarashi
+package br.com.atarashi.array
 
 fun main() {
     val idade1 = 25

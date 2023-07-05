@@ -1,4 +1,4 @@
-package br.com.atarashi
+package br.com.atarashi.array
 
 import java.math.BigDecimal
 import java.math.RoundingMode

@@ -1,7 +1,6 @@
-package br.com.atarashi
+package br.com.atarashi.array
 
 import java.math.BigDecimal
-import java.math.RoundingMode
 
 fun bigDecimalArrayOf(vararg valores: String): Array<BigDecimal> {
     return Array<BigDecimal>(valores.size) { i ->
